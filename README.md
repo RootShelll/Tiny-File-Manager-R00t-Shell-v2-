@@ -17,17 +17,6 @@ To access the admin panel, use the following credentials:
 
 Click on the buttons below to copy the admin login credentials:
 
-<button onclick="copyText('username')">Copy Username</button>
-<button onclick="copyText('password')">Copy Password</button>
-
-<script>
-function copyText(id) {
-  var text = document.getElementById(id).innerText;
-  navigator.clipboard.writeText(text);
-  alert(text + ' copied to clipboard!');
-}
-</script>
-
 <span id="username" style="display:none;">admin</span>
 <span id="password" style="display:none;">R00t</span>
 
