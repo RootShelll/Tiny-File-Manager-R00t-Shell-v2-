@@ -5,6 +5,32 @@
 
 **Tiny File Manager (R00t-Shell)** is a lightweight, open-source file management tool designed for simplicity and ease of use. It provides an intuitive interface to manage files and folders on your server or local machine. This version, **v2**, comes with enhanced features, improved security, and user-friendly enhancements.
 
+## Admin Login Credentials 🔑
+
+To access the admin panel, use the following credentials:
+- **Username**: `admin`
+- **Password**: `R00t`
+
+**Note**: For security reasons, please change these default credentials after initial setup.
+
+### Copy Credentials
+
+Click on the buttons below to copy the admin login credentials:
+
+<button onclick="copyText('username')">Copy Username</button>
+<button onclick="copyText('password')">Copy Password</button>
+
+<script>
+function copyText(id) {
+  var text = document.getElementById(id).innerText;
+  navigator.clipboard.writeText(text);
+  alert(text + ' copied to clipboard!');
+}
+</script>
+
+<span id="username" style="display:none;">admin</span>
+<span id="password" style="display:none;">R00t</span>
+
 ## Key Features 🌟
 
 - **User Authentication 🔑**: Secure login system with password hashing support.
@@ -14,6 +40,12 @@
 - **Permission Management ⚙️**: Change file permissions for better control over access rights.
 - **Multi-Language Support 🌐**: Supports multiple languages including English, with easy extension to other languages.
 - **Error Reporting 🛠️**: Detailed error reporting to help users troubleshoot and resolve issues.
+
+## Getting Started 🚀
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-repo/tiny-file-manager.git
 
 ## Getting Started 🚀
 
