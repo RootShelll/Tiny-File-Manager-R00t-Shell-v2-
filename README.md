@@ -34,7 +34,7 @@ Click on the buttons below to copy the admin login credentials:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/tiny-file-manager.git
+   git clone https://github.com/RootShelll/Tiny-File-Manager-R00t-Shell-v2-.git
 
 ## Getting Started 🚀
 
