@@ -40,7 +40,7 @@ Click on the buttons below to copy the admin login credentials:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/your-repo/](https://github.com/RootShelll/Tiny-File-Manager-R00t-Shell-v2-.git
+   git clone [https://github.com/RootShelll/Tiny-File-Manager-R00t-Shell-v2-](https://github.com/RootShelll/Tiny-File-Manager-R00t-Shell-v2-.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -55,7 +55,7 @@ Click on the buttons below to copy the admin login credentials:
    Edit the configuration file (`config.php`) to set up user credentials, language preferences, and other settings.
 
 5. **Run the Application**:
-   Access the application through your web browser by navigating to `http://your-server-address/tiny-file-manager`.
+   Access the application through your web browser by navigating to `https://github.com/RootShelll/Tiny-File-Manager-R00t-Shell-v2-`.
 
 ## Language Support 🌐
 
